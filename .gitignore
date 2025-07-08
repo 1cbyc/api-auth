@@ -1,0 +1,9 @@
+/node_modules
+.env
+
+# personal
+DETAILS.md
+docs/DETAILS.md
+docs/API_DOCUMENTATION.md
+docs/ENVIRONMENT_VARIABLES.md
+docs/QUICK_START.md
