@@ -51,7 +51,7 @@ You can generate secure secrets using Node.js:
 require('crypto').randomBytes(64).toString('hex')
 ```
 
-## Production Checklist
+<!-- ## Production Checklist
 
 - [ ] Change all default secrets
 - [ ] Set NODE_ENV to 'production'
@@ -59,4 +59,4 @@ require('crypto').randomBytes(64).toString('hex')
 - [ ] Set appropriate CORS origins
 - [ ] Configure email settings (if using email features)
 - [ ] Set up proper logging
-- [ ] Configure rate limiting appropriately 
+- [ ] Configure rate limiting appropriately  -->
