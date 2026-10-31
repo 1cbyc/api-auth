@@ -13,7 +13,7 @@
   },
   "keywords": ["authentication", "api", "jwt", "nodejs", "express", "mongodb"],
   "author": "",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
